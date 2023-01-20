@@ -1,2 +1,2 @@
 # ggtest
-test
+n 수정
